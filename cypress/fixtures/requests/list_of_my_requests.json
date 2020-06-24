@@ -42,12 +42,11 @@
       "reward": 200,
       "status": "completed"
     },
-        {
+    {
       "id": 8,
       "title": "Im in prison",
       "status": "completed",
       "reward": 250
     }
-
   ]
 }
