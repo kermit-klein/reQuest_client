@@ -14,7 +14,7 @@ const AllRequests = () => {
 
   useEffect(() => {
     getRequests(dispatch, activeCategory, coords);
-  }, [dispatch, activeCategory]);
+  }, [dispatch, activeCategory, longitude]);
 
   const requestCards = requests.map((request) => (
     <RequestCard key={request.id} request={request} myRequests={false} />
