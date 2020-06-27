@@ -31,7 +31,7 @@ const RequestCard = ({ request, setShowMessageForm, setMessage }) => {
             <Label color="yellow" ribbon="right">
               {request.reward} p
             </Label>
-            {request.distance > 0 && (
+            {request.distance >= 0 && (
               <Card.Meta id="distance">
                 Distance: {request.distance} km
               </Card.Meta>
