@@ -1,5 +1,10 @@
 # reQuest_client
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7502e25d-7b5d-4036-9228-b6e5ec87edbc/deploy-status)](https://app.netlify.com/sites/requestnow/deploys) 
+
 Final project of April 2020 Cohort
+
+![Img](https://i.imgur.com/Z9LBbne.png)
 
 An app for people helping each other, paying with in-app currency (karma points). So in order to have people help you with stuff, you need to help others with stuff.
 
